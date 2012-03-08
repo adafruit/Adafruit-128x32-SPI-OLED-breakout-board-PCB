@@ -1,9 +1,9 @@
-This is the PCB for the Adafruit Mini Color OLED breakout board
+This is the PCB for the Adafruit 128x32 SPI OLED breakout board
 Format is EagleCAD schematic and board layout
 
 For more details, check out the product page at
 
------> http://www.adafruit.com/products/684
+-----> http://www.adafruit.com/products/661
 
 Adafruit invests time and resources providing this open source design, 
 please support Adafruit and open-source hardware by purchasing 
