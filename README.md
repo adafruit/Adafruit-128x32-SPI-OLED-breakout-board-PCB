@@ -14,3 +14,10 @@ Of course, we wouldn't leave you with a datasheet and a "good luck": [We have a 
 
 You can download our SSD1306 OLED display Arduino library from github which comes with example code. The library can print text, bitmaps, pixels, rectangles, circles and lines. It uses 512 bytes of RAM since it needs to buffer the entire display but its very fast! The code is simple to adapt to any other microcontroller.
 
+### License
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries.
+
+Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional details.
